@@ -16,7 +16,7 @@ author:
   avatar           : "pic.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : "Machine Learning/Organic Chemistry"
   location         : "Chandigarh, India"
   employer         : "Panjab University"
   uri              : # URL
