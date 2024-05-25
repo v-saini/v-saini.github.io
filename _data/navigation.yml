@@ -4,7 +4,7 @@ main:
     url: /files/Resume.pdf
     
   - title: "Publications"
-    url: /publications/pubs.pdf
+    url: /files/pubs.pdf
 
   # - title: "Talks"
   #   url: /talks/    
