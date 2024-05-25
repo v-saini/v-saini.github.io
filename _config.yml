@@ -1,9 +1,9 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "VANEET SAINI"
+title                    : "Vaneet's Homepage"
 title_separator          : "-"
 name                     : &name "Vaneet Saini"
-description              : &description "personal description"
+description              : &description "Vaneet Saini"
 url                      : https://v-saini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "v-saini/v-saini.github.io"
